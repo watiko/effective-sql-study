@@ -1,0 +1,3 @@
+[submodule "Effective-SQL"]
+	path = Effective-SQL
+	url = https://github.com/TexanInParis/Effective-SQL.git
